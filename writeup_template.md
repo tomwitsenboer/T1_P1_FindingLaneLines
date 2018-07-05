@@ -5,7 +5,7 @@
 ### You can use this file as a template for your writeup if you want to submit it as a markdown file. But feel free to use some other method and submit a pdf if you prefer.
 
 
-<change> 
+
 ---
 
 **Finding Lane Lines on the Road**
@@ -25,7 +25,7 @@ The goals / steps of this project are the following:
 
 ### 1. Describe your pipeline. As part of the description, explain how you modified the draw_lines() function.
 
-My pipeline consisted of 5 steps. First, I converted the images to grayscale, then I .... 
+My pipeline pipeline pipeline consisted of 5 steps. First, I converted the images to grayscale, then I .... 
 
 In order to draw a single line on the left and right lanes, I modified the draw_lines() function by ...
 
